@@ -17,7 +17,9 @@
     "@dnd-kit/utilities": "^3.2.1",
     "framer-motion": "^10.16.5",
     "lucide-react": "^0.292.0",
-    "zustand": "^4.4.6"
+    "zustand": "^4.4.6",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^2.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
