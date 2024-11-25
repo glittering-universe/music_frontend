@@ -13,6 +13,11 @@ const nextConfig = {
   swcMinify: true,
   compress: true,
   poweredByHeader: false,
+  experimental: {
+    optimizeCss: true,
+    scrollRestoration: true,
+  },
+  output: 'standalone',
 }
 
 export default nextConfig;
